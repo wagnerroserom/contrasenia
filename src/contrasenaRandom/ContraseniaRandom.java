@@ -21,7 +21,7 @@ public class ContraseniaRandom {
 	public static void main(String[] args) {
 		int longitudContrasena = 16;
 		String contrasenaGenerada = generarContrasena(longitudContrasena);
-		System.out.println("Se generó tu nueva contraseña con éxito: " + contrasenaGenerada);
+		System.out.println("Felicidades se generó tu nueva contraseña con éxito: " + contrasenaGenerada);
 
 	}
 
